@@ -6,4 +6,8 @@ public class DemoDay5 {
 		System.out.println("Sun");
 	}
 	
+	public static void getInfo() {
+		System.out.println("today is Java/Github day...");
+	}
+	
 }
