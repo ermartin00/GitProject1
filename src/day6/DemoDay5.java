@@ -1,4 +1,4 @@
-11package day6;
+package day6;
 
 public class DemoDay5 {
 
