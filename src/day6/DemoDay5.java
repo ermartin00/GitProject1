@@ -10,7 +10,7 @@ public class DemoDay5 {
 		System.out.println("today is Java/Github day...");
 	}
 
-	public static void getInfo() {
+	public static void getInfo2() {
 		System.out.println(" Java/Github day...");
 	}
 	
